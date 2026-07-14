@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClipboardMonitorWinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ClipboardMonitorWinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

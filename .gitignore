@@ -1,0 +1,25 @@
+# .NET 构建产物
+bin/
+obj/
+artifacts/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 本地日志、调试文件与签名材料
+*.log
+*.pdb
+*.cer
+*.pfx
+*.snk
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
