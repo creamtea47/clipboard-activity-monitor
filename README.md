@@ -39,8 +39,8 @@ Windows 中“剪贴板被占用”可能指两种不同状态：某个程序正
 ## 下载与运行
 
 1. 打开 [Releases](https://github.com/creamtea47/clipboard-activity-monitor/releases/latest)。
-2. 下载 `ClipboardActivityMonitor-v1.0.0-win-x64.zip`。
-3. 解压后运行 `ClipboardActivityMonitor.exe`。
+2. 推荐下载 `ClipboardActivityMonitor-v1.0.0-win-x64.exe`，双击完成当前用户安装。
+3. 如果不想安装，也可以下载同名 ZIP 便携包，解压后运行 `ClipboardActivityMonitor.exe`。
 
 运行环境：
 
